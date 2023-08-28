@@ -1,10 +1,10 @@
 # Dynamo
 
-##Objective: Create a web application that allows clients to upload XML files. The application should process
+## Objective: Create a web application that allows clients to upload XML files. The application should process
 the files in the backend, converting them to JSON, and then save them in a specified directory. The
 application should be able to handle multiple requests concurrently.
 
-##Requirements:
+## Requirements:
 - [x] File Upload: Develop an endpoint for uploading XML files. The endpoint should accept a POST
 request with a file attachment and a filename parameter.
 - [x] File Conversion: After a file is uploaded, the application should convert the XML data to JSON.
