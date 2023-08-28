@@ -1,6 +1,6 @@
 # Dynamo
 
-## Objective: Create a web application that allows clients to upload XML files. The application should process
+Objective: Create a web application that allows clients to upload XML files. The application should process
 the files in the backend, converting them to JSON, and then save them in a specified directory. The
 application should be able to handle multiple requests concurrently.
 
@@ -22,5 +22,5 @@ different scenarios.
 - [x] Documentation: Write a brief document outlining how to use your API.
 
 ## Dev notes
-### Documentation is part of the Swagger. Can be enriched aditionaly.
-### Tests are no done yet.
+Documentation is part of the Swagger. Can be enriched aditionaly.
+Tests are no done yet. :/
